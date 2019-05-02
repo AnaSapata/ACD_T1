@@ -1,3 +1,4 @@
-# ACD
-# Trabalho 1 
-# Regressão Logistica e Multinomial em R
+#### ACD
+
+* Trabalho 1 
+* Regressão Logistica e Multinomial em R
